@@ -31,7 +31,7 @@ The Pandas AI application offers:
 
 1. **CSV File Upload**: Upload and preview CSV files to prepare for analysis.
 2. **Natural Language Querying**: Ask questions about the dataset in natural language and receive corresponding pandas queries.
-3. **Query Generation and Correction**: Automatically generate and refine pandas queries using advanced language models.
+3. **Query Generation and Correction**: Automatically generate and refine pandas queries using pretranied LLMs from Groq (here in this case 2 models are one is for generating the pandas queries - model used : `llama-3.1-70b-versatile`, the other one is for correcting the generated queries - model used : `llama-3-70b.`
 4. **Data Analysis**: Execute and display the results of pandas queries on the uploaded dataset.
 
 ## Prerequisites
