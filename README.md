@@ -6,13 +6,13 @@ Pandas AI is an interactive Streamlit application designed to assist users in an
 
 ## Demo Screenshots
 
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213347.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213406.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213546.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213647.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213805.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213849.png
-https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213918.png
+![Screenshot 1](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213347.png)
+![Screenshot 2](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213406.png)
+![Screenshot 3](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213546.png)
+![Screenshot 4](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213647.png)
+![Screenshot 5](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213805.png)
+![Screenshot 6](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213849.png)
+![Screenshot 7](https://github.com/AtharshKrishnamoorthy/Pandas-AI/blob/main/data/Screenshot%202024-08-10%20213918.png)
 
 ## Table of Contents
 
